@@ -1,0 +1,21 @@
+[
+    {
+        "title":"tomate",
+        "price":2.5,
+        "thumbnail":"https://cdn.pixabay.com/photo/2022/09/05/09/50/tomatoes-7433786_960_720.jpg",
+        "id":1
+    },
+
+    {
+        "title":"zanahoria",
+        "price":1.5,
+        "thumbnail":"https://media.istockphoto.com/photos/carrot-picture-id1127315975?s=612x612","id":2
+    },
+
+    {
+        "title":"arveja",
+        "price":3.25,
+        "thumbnail":"https://media.istockphoto.com/photos/harvest-of-freshly-picked-green-peas-in-a-bowl-on-a-wooden-rustic-picture-id1276945193?s=612x612",
+        "id":3
+    },
+]
